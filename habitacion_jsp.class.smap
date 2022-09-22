@@ -1,0 +1,29 @@
+SMAP
+habitacion_jsp.java
+JSP
+*S JSP
+*F
++ 0 habitacion.jsp
+habitacion.jsp
++ 1 seguridadAdmin.jsp
+seguridadAdmin.jsp
+*L
+5,2:53
+5#1,2:55
+8,9:58
+16:67
+6#0,91:68
+99,14:162
+112,15:176
+127,8:192
+134,3:200
+137,2:203,3
+139:209
+140:210,5
+141:215,3
+142,2:218
+144,3:221
+146,18:224
+165,9:244
+173,9:253
+*E

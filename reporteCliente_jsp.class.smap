@@ -1,0 +1,20 @@
+SMAP
+reporteCliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 reporteCliente.jsp
+reporteCliente.jsp
+*L
+5,56:51
+62,13:109
+74,18:122
+92,12:141
+103,3:153
+106,7:156,3
+113,6:177
+119,3:184
+121,8:187
+130,9:197
+138,9:206
+*E

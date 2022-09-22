@@ -1,0 +1,20 @@
+SMAP
+mostrarCliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 mostrarCliente.jsp
+mostrarCliente.jsp
+*L
+5,50:51
+56,13:103
+68,15:116
+83,10:132
+92,3:142
+95,4:145,3
+99,6:157
+105,3:164
+107,9:167
+117,9:178
+125,7:187
+*E
